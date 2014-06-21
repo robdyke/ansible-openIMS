@@ -1,2 +1,5 @@
 ---
 # tasks file for openIMS-ansible
+  tasks:
+  - name: install the Tomcat packages
+    yum: name="tomcat" state=present

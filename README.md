@@ -6,7 +6,7 @@ This module will setup a Centos machine and build openMAXIMS
 Requirements
 ------------
 
-Uses the following ansible modules: groover.java
+None ... yet
 
 Role Variables
 --------------
@@ -16,7 +16,7 @@ None ... yet
 Dependencies
 ------------
 
-Uses the following ansible modules: groover.java
+Uses the following ansible modules: robdyke.ant robdyke.maven robdyke.java
 
 Example Playbook
 -------------------------
